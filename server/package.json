@@ -35,7 +35,7 @@
         "lodash.merge": "^4.6.2",
         "mongodb": "^3.2.7",
         "node-geocoder": "^4.2.0",
-        "nodemon": "^1.19.1",
+        "nodemon": "^2.0.22",
         "stripe": "^7.13.1"
     },
     "scripts": {
