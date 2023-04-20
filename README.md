@@ -16,11 +16,18 @@ Each have their own disjoint structure with their own source code located in src
 - A rating system that allows students to provide feedback on the rental experience and the quality of the equipment.
 - Rental agreement will include terms and conditions for the use and return of the device, with penalties for late or  damaged returns. 
 
-# Tech Stack 
-- **`React`** Front-end
-- **`GraphQL`** as an alternative to rest apis
+
+# Libraries used
+
+- **`React`** the love of my life
+- **`GraphQL`** because REST APIS are boring
+- **`apollo-server-express`** as server
 - **`MongoDB`** for persistance of data
-- **`Docker`** for ease of running the project in a different system
+- **`GraphQL Subscriptions`** for realtime communication and chat system
+- **`Ant Design`** for creating UI
+- **`Apollo Client`** for client state management
+- **`Typescript`** for type safety, cure for headache you get when props are flowing all over the app with no hint 
+- **`Cloudinary`** for image uploads
 
 # Note
 This project is by no means complete and have many parts that need more work but as a simple way to demonstrate our idea we thought this would be suffice. 
