@@ -7,7 +7,7 @@ Our project will be following a MTC so that it will be easier to update and add 
 The folder structure will consist of 
 - client 
 - server 
-Each have their own disjoint structure with their own source code located in src folder.
+
 
 # Features
 - A web-based platform that allows students to create an account and login.
